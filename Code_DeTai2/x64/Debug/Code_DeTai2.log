@@ -1,0 +1,9 @@
+﻿  MaHoaHangRao.cpp
+  OneTimePad.cpp
+  Vigenere.cpp
+  Generating Code...
+D:\Nam_2_hoc_ky_II(hoc_ky_4)\Detaiso2_BaoMatMayTinh\SourceCode\Code_DeTai2\MaHoaHangRao.cpp(22,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Nam_2_hoc_ky_II(hoc_ky_4)\Detaiso2_BaoMatMayTinh\SourceCode\Code_DeTai2\MaHoaHangRao.cpp(75,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Nam_2_hoc_ky_II(hoc_ky_4)\Detaiso2_BaoMatMayTinh\SourceCode\Code_DeTai2\MaHoaHangRao.cpp(89,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Nam_2_hoc_ky_II(hoc_ky_4)\Detaiso2_BaoMatMayTinh\SourceCode\Code_DeTai2\MaHoaHangRao.cpp(95,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Code_DeTai2.vcxproj -> D:\Nam_2_hoc_ky_II(hoc_ky_4)\Detaiso2_BaoMatMayTinh\SourceCode\x64\Debug\Code_DeTai2.exe
